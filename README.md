@@ -6,12 +6,12 @@
 
 The project was to find out different information through data mining. They were
 
-            • Find hour of the day that generated most number of tweets on March 6, 2010
+      *  Find hour of the day that generated most number of tweets on March 6, 2010
 
-            • Find the most mobile tweeter, User who tweeted from most distinct location (lat-lon)
+      *  Find the most mobile tweeter, User who tweeted from most distinct location (lat-lon)
 
-            • Find 3 most popular topics (hashtag #)
+      *  Find 3 most popular topics (hashtag #)
 
-            • Find most frequently mentioned twitter handle @
+      *  Find most frequently mentioned twitter handle @
 
 **TechnologyéTools Used:**  HDFS, MapReduce, Hive, FileZilla FTP Client 
